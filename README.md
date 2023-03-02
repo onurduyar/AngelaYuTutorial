@@ -23,10 +23,10 @@ Template
 
 | Destini         | Quizzler        | Eggtimer              | Xylophone         |
 | ------------ | ------------- | ------------------ | ------------ |
-| <img src="https://github.com/onurduyar/angelaYuTutorial/blob/main/destini.gif"  width="200" height="300%"> | <img src="https://github.com/onurduyar/angelaYuTutorial/blob/main/quizzler.gif"  width="200" height="300%">    | <img src="https://github.com/onurduyar/angelaYuTutorial/blob/main/eggtimer.png"  width="200" height="300%"> | <img src="https://github.com/onurduyar/angelaYuTutorial/blob/main/xylophone.png"  width="200" height="300%">    |
+| <img src="https://github.com/onurduyar/angelaYuTutorial/blob/main/destini.gif"  width="170" height="300%"> | <img src="https://github.com/onurduyar/angelaYuTutorial/blob/main/quizzler.gif"  width="170" height="300%">    | <img src="https://github.com/onurduyar/angelaYuTutorial/blob/main/eggtimer.png"  width="170" height="300%"> | <img src="https://github.com/onurduyar/angelaYuTutorial/blob/main/xylophone.png"  width="170" height="300%">    |
 
 
 
 | Dicee         | Magic 8 ball        | 
 | ------------ | ------------- |
-| <img src="https://github.com/onurduyar/angelaYuTutorial/blob/main/dicee.png"  width="200" height="300%"> | <img src="https://github.com/onurduyar/angelaYuTutorial/blob/main/magic8ball.png"  width="200" height="300%">    |
+| <img src="https://github.com/onurduyar/angelaYuTutorial/blob/main/dicee.png"  width="170" height="300%"> | <img src="https://github.com/onurduyar/angelaYuTutorial/blob/main/magic8ball.png"  width="170" height="300%">    |
