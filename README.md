@@ -17,7 +17,7 @@ Template
 
 | ByteCoin     | Clima        | Tipsy              | BMI Calculator |
 | ------------ | ------------- | ------------------ | ------------ |
-| <img src="https://github.com/onurduyar/angelaYuTutorial/blob/main/bytecoin.gif"  width="200" height="300%"> | <img src="https://github.com/onurduyar/angelaYuTutorial/blob/main/clima.gif"  width="200" height="300%">    | <img src="https://github.com/onurduyar/angelaYuTutorial/blob/main/tipsy.gif"  width="200" height="300%"> | <img src="https://github.com/onurduyar/angelaYuTutorial/blob/main/bmicalculator.gif"  width="200" height="300%">    |
+| <img src="https://github.com/onurduyar/angelaYuTutorial/blob/main/bytecoin.gif"  width="200" height="300%"> | <img src="https://github.com/onurduyar/angelaYuTutorial/blob/main/clima.gif"  width="200" height="300%">    | <img src="https://github.com/onurduyar/angelaYuTutorial/blob/main/tipsy.gif"  width="200" height="300%"> | <img src="https://github.com/onurduyar/angelaYuTutorial/blob/main/bmicalculator.gif"  width="200" height="200%">    |
 
 
 
