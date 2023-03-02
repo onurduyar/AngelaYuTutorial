@@ -17,19 +17,19 @@ Template
 
 | ByteCoin     | Clima        | Tipsy              | BMI Calculator |
 | ------------ | ------------- | ------------------ | ------------ |
-| <img src="https://github.com/onurduyar/angelaYuTutorial/blob/main/bytecoin.gif"  width="170" height="300%"> | <img src="https://github.com/onurduyar/angelaYuTutorial/blob/main/clima.gif"  width="170" height="300%">    | <img src="https://github.com/onurduyar/angelaYuTutorial/blob/main/tipsy.gif"  width="170" height="300%"> | <img src="https://github.com/onurduyar/angelaYuTutorial/blob/main/bmicalculator.gif"  width="170" height="200%">    |
+| <img src="https://github.com/onurduyar/angelaYuTutorial/blob/main/Assets/bytecoin.gif"  width="170" height="300%"> | <img src="https://github.com/onurduyar/angelaYuTutorial/blob/main/Assets/clima.gif"  width="170" height="300%">    | <img src="https://github.com/onurduyar/angelaYuTutorial/blob/main/Assets/tipsy.gif"  width="170" height="300%"> | <img src="https://github.com/onurduyar/angelaYuTutorial/blob/main/Assets/bmicalculator.gif"  width="170" height="200%">    |
 
 
 
 | Destini         | Quizzler        | Eggtimer              | Xylophone         |
 | ------------ | ------------- | ------------------ | ------------ |
-| <img src="https://github.com/onurduyar/angelaYuTutorial/blob/main/destini.gif"  width="170" height="300%"> | <img src="https://github.com/onurduyar/angelaYuTutorial/blob/main/quizzler.gif"  width="170" height="300%">    | <img src="https://github.com/onurduyar/angelaYuTutorial/blob/main/eggtimer.png"  width="170" height="300%"> | <img src="https://github.com/onurduyar/angelaYuTutorial/blob/main/xylophone.png"  width="170" height="300%">    |
+| <img src="https://github.com/onurduyar/angelaYuTutorial/blob/main/Assets/destini.gif"  width="170" height="300%"> | <img src="https://github.com/onurduyar/angelaYuTutorial/blob/main/Assets/quizzler.gif"  width="170" height="300%">    | <img src="https://github.com/onurduyar/angelaYuTutorial/blob/main/Assets/eggtimer.png"  width="170" height="300%"> | <img src="https://github.com/onurduyar/angelaYuTutorial/blob/main/Assets/xylophone.png"  width="170" height="300%">    |
 
 
 
 | Dicee         | Magic 8 ball        | 
 | ------------ | ------------- |
-| <img src="https://github.com/onurduyar/angelaYuTutorial/blob/main/dicee.png"  width="170" height="300%"> | <img src="https://github.com/onurduyar/angelaYuTutorial/blob/main/magic8ball.png"  width="170" height="300%">    |
+| <img src="https://github.com/onurduyar/angelaYuTutorial/blob/main/Assets/dicee.png"  width="170" height="300%"> | <img src="https://github.com/onurduyar/angelaYuTutorial/blob/main/Assets/magic8ball.png"  width="170" height="300%">    |
 
 ### Reference
 [Angela YU Udemy Course](https://www.udemy.com/course/ios-13-app-development-bootcamp/)
