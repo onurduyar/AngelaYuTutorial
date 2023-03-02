@@ -30,3 +30,7 @@ Template
 | Dicee         | Magic 8 ball        | 
 | ------------ | ------------- |
 | <img src="https://github.com/onurduyar/angelaYuTutorial/blob/main/dicee.png"  width="170" height="300%"> | <img src="https://github.com/onurduyar/angelaYuTutorial/blob/main/magic8ball.png"  width="170" height="300%">    |
+
+### Reference
+[Angela YU Udemy Course](https://www.udemy.com/course/ios-13-app-development-bootcamp/)
+
